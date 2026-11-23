@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>胡志成的文章</title>
+    <link>https://guyuezhicheng.github.io</link>
+    <description>武昌工学院信息工程学院计算机科学与技术专业，全栈开发 / HarmonyOS 应用开发。这里放项目、文章和正在做的事。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 23 Nov 2026 00:50:01 GMT</lastBuildDate>
+    <item>
+      <title>金融入门 15 天 · Day 01：先从「钱去哪了」讲起</title>
+      <link>https://guyuezhicheng.github.io/writing#finance-day01</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/finance-day01</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description>零基础学金融的第一课，不背术语，先搞懂收入、支出、资产、负债这四个词到底在说什么。</description>
+      <category>金融</category>
+      <category>入门</category>
+      <category>每日一课</category>
+    </item>
+    <item>
+      <title>心理学入门每日一讲 · Day 01：为什么我们会被「第一印象」牵着走</title>
+      <link>https://guyuezhicheng.github.io/writing#psych-day01</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/psych-day01</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description>从社会心理学视角看首因效应，用生活里的例子把「第一印象」这件事讲明白。</description>
+      <category>心理学</category>
+      <category>入门</category>
+      <category>每日一讲</category>
+    </item>
+    <item>
+      <title>LLM 和 Agent 到底差在哪：不用公式讲清楚</title>
+      <link>https://guyuezhicheng.github.io/writing#llm-vs-agent</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/llm-vs-agent</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>大模型是大脑，Agent 是带大脑的完整执行体。用几张图和真实例子，把这两个高频混淆的概念拆开。</description>
+      <category>AI</category>
+      <category>Agent</category>
+      <category>概念</category>
+    </item>
+    <item>
+      <title>Agent 笔记：Function Calling 和 Tool Calling 到底什么关系</title>
+      <link>https://guyuezhicheng.github.io/writing#agent-function-vs-tool</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/agent-function-vs-tool</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>模型侧的能力和应用侧的模式，两个被混着叫的概念拆开看：一个是输出结构化参数，一个是完整的工具调用范式。</description>
+      <category>AI</category>
+      <category>Agent</category>
+      <category>Function Calling</category>
+    </item>
+    <item>
+      <title>小嘀嗒的三端架构：Web、SpringBoot 与鸿蒙怎么串起来</title>
+      <link>https://guyuezhicheng.github.io/writing#distriagenda-architecture</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/distriagenda-architecture</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <description>毕设做到一半回头看的数据流设计：一套模型喂三端，接口怎么划、状态怎么同步、设备间怎么流转。</description>
+      <category>SpringBoot</category>
+      <category>架构</category>
+      <category>毕设</category>
+    </item>
+    <item>
+      <title>从 Java 到 ArkTS：一个后端选手转鸿蒙的踩坑清单</title>
+      <link>https://guyuezhicheng.github.io/writing#java-to-harmony</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/java-to-harmony</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+      <description>写惯了 SpringBoot 再写 ArkTS，哪些思维定式要改？状态管理、生命周期、UI 声明式写法，逐条对比。</description>
+      <category>Java</category>
+      <category>ArkTS</category>
+      <category>HarmonyOS</category>
+    </item>
+    <item>
+      <title>DevEco Studio 会话找回：关闭后还能救回来吗</title>
+      <link>https://juejin.cn/user/3146115124573648/posts</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/deveco-session-recover</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <description>编辑器里的文件没保存、会话也关了，这篇把 DevEco Studio 的本地缓存位置、恢复步骤和版本差异一次讲清。</description>
+      <category>HarmonyOS</category>
+      <category>DevEco Studio</category>
+      <category>工具</category>
+    </item>
+  </channel>
+</rss>

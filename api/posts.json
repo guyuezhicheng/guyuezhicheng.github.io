@@ -1,0 +1,113 @@
+{
+  "site": "胡志成",
+  "domain": "guyuezhicheng.github.io",
+  "updated": "2026-11-23T00:50:01.885Z",
+  "count": 7,
+  "posts": [
+    {
+      "slug": "finance-day01",
+      "title": "金融入门 15 天 · Day 01：先从「钱去哪了」讲起",
+      "date": "2026-11-17",
+      "series": null,
+      "seriesNo": null,
+      "summary": "零基础学金融的第一课，不背术语，先搞懂收入、支出、资产、负债这四个词到底在说什么。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#finance-day01"
+    },
+    {
+      "slug": "psych-day01",
+      "title": "心理学入门每日一讲 · Day 01：为什么我们会被「第一印象」牵着走",
+      "date": "2026-11-17",
+      "series": null,
+      "seriesNo": null,
+      "summary": "从社会心理学视角看首因效应，用生活里的例子把「第一印象」这件事讲明白。",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#psych-day01"
+    },
+    {
+      "slug": "llm-vs-agent",
+      "title": "LLM 和 Agent 到底差在哪：不用公式讲清楚",
+      "date": "2026-11-10",
+      "series": "AI 笔记",
+      "seriesNo": 1,
+      "summary": "大模型是大脑，Agent 是带大脑的完整执行体。用几张图和真实例子，把这两个高频混淆的概念拆开。",
+      "tags": [
+        "AI",
+        "Agent",
+        "概念"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#llm-vs-agent"
+    },
+    {
+      "slug": "agent-function-vs-tool",
+      "title": "Agent 笔记：Function Calling 和 Tool Calling 到底什么关系",
+      "date": "2026-11-10",
+      "series": null,
+      "seriesNo": null,
+      "summary": "模型侧的能力和应用侧的模式，两个被混着叫的概念拆开看：一个是输出结构化参数，一个是完整的工具调用范式。",
+      "tags": [
+        "AI",
+        "Agent",
+        "Function Calling"
+      ],
+      "readMin": 7,
+      "url": "https://guyuezhicheng.github.io/writing#agent-function-vs-tool"
+    },
+    {
+      "slug": "distriagenda-architecture",
+      "title": "小嘀嗒的三端架构：Web、SpringBoot 与鸿蒙怎么串起来",
+      "date": "2026-10-12",
+      "series": "毕设手记",
+      "seriesNo": 1,
+      "summary": "毕设做到一半回头看的数据流设计：一套模型喂三端，接口怎么划、状态怎么同步、设备间怎么流转。",
+      "tags": [
+        "SpringBoot",
+        "架构",
+        "毕设"
+      ],
+      "readMin": 12,
+      "url": "https://guyuezhicheng.github.io/writing#distriagenda-architecture"
+    },
+    {
+      "slug": "java-to-harmony",
+      "title": "从 Java 到 ArkTS：一个后端选手转鸿蒙的踩坑清单",
+      "date": "2026-09-05",
+      "series": "鸿蒙踩坑录",
+      "seriesNo": 2,
+      "summary": "写惯了 SpringBoot 再写 ArkTS，哪些思维定式要改？状态管理、生命周期、UI 声明式写法，逐条对比。",
+      "tags": [
+        "Java",
+        "ArkTS",
+        "HarmonyOS"
+      ],
+      "readMin": 10,
+      "url": "https://guyuezhicheng.github.io/writing#java-to-harmony"
+    },
+    {
+      "slug": "deveco-session-recover",
+      "title": "DevEco Studio 会话找回：关闭后还能救回来吗",
+      "date": "2026-07-20",
+      "series": "鸿蒙踩坑录",
+      "seriesNo": 1,
+      "summary": "编辑器里的文件没保存、会话也关了，这篇把 DevEco Studio 的本地缓存位置、恢复步骤和版本差异一次讲清。",
+      "tags": [
+        "HarmonyOS",
+        "DevEco Studio",
+        "工具"
+      ],
+      "readMin": 8,
+      "url": "https://juejin.cn/user/3146115124573648/posts"
+    }
+  ]
+}
