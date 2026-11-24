@@ -1,113 +1,104 @@
 {
   "site": "胡志成",
   "domain": "guyuezhicheng.github.io",
-  "updated": "2026-11-23T01:34:36.560Z",
-  "count": 7,
+  "updated": "2026-11-24T07:56:58.084Z",
+  "count": 6,
   "posts": [
     {
-      "slug": "finance-day01",
-      "title": "金融入门 15 天 · Day 01：先从「钱去哪了」讲起",
-      "date": "2026-11-17",
-      "series": null,
-      "seriesNo": null,
-      "summary": "零基础学金融的第一课，不背术语，先搞懂收入、支出、资产、负债这四个词到底在说什么。",
-      "tags": [
-        "金融",
-        "入门",
-        "每日一课"
-      ],
-      "readMin": 5,
-      "url": "https://guyuezhicheng.github.io/writing#finance-day01"
-    },
-    {
-      "slug": "psych-day01",
-      "title": "心理学入门每日一讲 · Day 01：为什么我们会被「第一印象」牵着走",
-      "date": "2026-11-17",
-      "series": null,
-      "seriesNo": null,
-      "summary": "从社会心理学视角看首因效应，用生活里的例子把「第一印象」这件事讲明白。",
-      "tags": [
-        "心理学",
-        "入门",
-        "每日一讲"
-      ],
-      "readMin": 6,
-      "url": "https://guyuezhicheng.github.io/writing#psych-day01"
-    },
-    {
-      "slug": "llm-vs-agent",
-      "title": "LLM 和 Agent 到底差在哪：不用公式讲清楚",
-      "date": "2026-11-10",
-      "series": "AI 笔记",
-      "seriesNo": 1,
-      "summary": "大模型是大脑，Agent 是带大脑的完整执行体。用几张图和真实例子，把这两个高频混淆的概念拆开。",
-      "tags": [
-        "AI",
-        "Agent",
-        "概念"
-      ],
-      "readMin": 6,
-      "url": "https://guyuezhicheng.github.io/writing#llm-vs-agent"
-    },
-    {
-      "slug": "agent-function-vs-tool",
-      "title": "Agent 笔记：Function Calling 和 Tool Calling 到底什么关系",
-      "date": "2026-11-10",
-      "series": null,
-      "seriesNo": null,
-      "summary": "模型侧的能力和应用侧的模式，两个被混着叫的概念拆开看：一个是输出结构化参数，一个是完整的工具调用范式。",
-      "tags": [
-        "AI",
-        "Agent",
-        "Function Calling"
-      ],
-      "readMin": 7,
-      "url": "https://guyuezhicheng.github.io/writing#agent-function-vs-tool"
-    },
-    {
-      "slug": "distriagenda-architecture",
-      "title": "小嘀嗒的三端架构：Web、SpringBoot 与鸿蒙怎么串起来",
-      "date": "2026-10-12",
-      "series": "毕设手记",
-      "seriesNo": 1,
-      "summary": "毕设做到一半回头看的数据流设计：一套模型喂三端，接口怎么划、状态怎么同步、设备间怎么流转。",
-      "tags": [
-        "SpringBoot",
-        "架构",
-        "毕设"
-      ],
-      "readMin": 12,
-      "url": "https://guyuezhicheng.github.io/writing#distriagenda-architecture"
-    },
-    {
-      "slug": "java-to-harmony",
-      "title": "从 Java 到 ArkTS：一个后端选手转鸿蒙的踩坑清单",
-      "date": "2026-09-05",
-      "series": "鸿蒙踩坑录",
+      "slug": "deveco-session-02",
+      "title": "AI 助手升级后聊天记录丢了（二）：数据一直都在，丢的是看见",
+      "date": "2026-11-21",
+      "series": "DevEco Code 排障",
       "seriesNo": 2,
-      "summary": "写惯了 SpringBoot 再写 ArkTS，哪些思维定式要改？状态管理、生命周期、UI 声明式写法，逐条对比。",
+      "summary": "终端版升级后聊天记录没了？三套数据库并存、环境变量劫持，改对项目 ID 之后 31 个会话全部回来了。",
       "tags": [
-        "Java",
-        "ArkTS",
-        "HarmonyOS"
-      ],
-      "readMin": 10,
-      "url": "https://guyuezhicheng.github.io/writing#java-to-harmony"
-    },
-    {
-      "slug": "deveco-session-recover",
-      "title": "DevEco Studio 会话找回：关闭后还能救回来吗",
-      "date": "2026-07-20",
-      "series": "鸿蒙踩坑录",
-      "seriesNo": 1,
-      "summary": "编辑器里的文件没保存、会话也关了，这篇把 DevEco Studio 的本地缓存位置、恢复步骤和版本差异一次讲清。",
-      "tags": [
-        "HarmonyOS",
-        "DevEco Studio",
-        "工具"
+        "DevEco Code",
+        "终端版",
+        "项目ID",
+        "SQLite"
       ],
       "readMin": 8,
-      "url": "https://juejin.cn/user/3146115124573648/posts"
+      "url": "https://guyuezhicheng.github.io/writing#deveco-session-02"
+    },
+    {
+      "slug": "deveco-session-03",
+      "title": "这么多聊天记录，AI 是怎么加载的？迁移旧会话后上下文加载慢的三刀排查",
+      "date": "2026-11-21",
+      "series": "DevEco Code 排障",
+      "seriesNo": 3,
+      "summary": "旧记录迁移完反而变慢了。模型开场税、700MB 会话库、684MB 未结账的 WAL、超长会话 prefill，最后落到三刀优化。",
+      "tags": [
+        "DevEco Code",
+        "性能优化",
+        "WAL",
+        "SQLite"
+      ],
+      "readMin": 7,
+      "url": "https://guyuezhicheng.github.io/writing#deveco-session-03"
+    },
+    {
+      "slug": "deveco-session-01",
+      "title": "DevEco Code 大版本更新后丢失全部 AI 会话？三层根因排查与 37 万行数据找回实录",
+      "date": "2026-11-20",
+      "series": "DevEco Code 排障",
+      "seriesNo": 1,
+      "summary": "升级后历史会话一夜清空，数据一个字节没丢。数据库搬家、项目 ID 规则变更、snip 部件被移除，三层根因逐个拆，附 37.6 万行 SQLite 完整迁移脚本。",
+      "tags": [
+        "DevEco Code",
+        "HarmonyOS",
+        "SQLite",
+        "数据恢复"
+      ],
+      "readMin": 14,
+      "url": "https://guyuezhicheng.github.io/writing#deveco-session-01"
+    },
+    {
+      "slug": "agent-concepts",
+      "title": "Agent 概念笔记：从 LLM 到 MCP 的一层层拆解",
+      "date": "2026-11-20",
+      "series": "AI 笔记",
+      "seriesNo": 1,
+      "summary": "LLM、Agent、RAG、Skill、Multi-Agent、MCP 这几个词老是混着说。其实它们是一层套一层，按层拆开就清楚了。",
+      "tags": [
+        "AI",
+        "Agent",
+        "MCP",
+        "RAG"
+      ],
+      "readMin": 15,
+      "url": "https://guyuezhicheng.github.io/writing#agent-concepts"
+    },
+    {
+      "slug": "github-accel-deploy",
+      "title": "GitHub 加速与毕设仓库部署：主仓 + 镜像怎么配",
+      "date": "2026-11-20",
+      "series": "开发环境搭建",
+      "seriesNo": 1,
+      "summary": "毕设仓库放哪、主仓和镜像怎么分工、国内访问慢按场景选哪个加速方案，一条条给结论。",
+      "tags": [
+        "GitHub",
+        "Git",
+        "部署",
+        "工具"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#github-accel-deploy"
+    },
+    {
+      "slug": "nvm-node-deveco-setup",
+      "title": "Windows 环境搭建：nvm-windows + 双版本 Node + DevEco Code",
+      "date": "2026-11-20",
+      "series": "开发环境搭建",
+      "seriesNo": 2,
+      "summary": "装 nvm 之前先卸掉独立 Node，权限选 Harden，shim mode 勾 Auto-install。顺序错了就得重装一遍。",
+      "tags": [
+        "Windows",
+        "nvm",
+        "Node.js",
+        "DevEco Code"
+      ],
+      "readMin": 7,
+      "url": "https://guyuezhicheng.github.io/writing#nvm-node-deveco-setup"
     }
   ]
 }
