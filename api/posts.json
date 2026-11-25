@@ -1,9 +1,174 @@
 {
   "site": "胡志成",
   "domain": "guyuezhicheng.github.io",
-  "updated": "2026-11-24T08:48:25.940Z",
-  "count": 6,
+  "updated": "2026-11-25T02:42:17.793Z",
+  "count": 34,
   "posts": [
+    {
+      "slug": "aieng-day16",
+      "title": "Day 16 讲义与学术雷达 · 多文件编译、静态库/动态库、Makefile/CMake",
+      "date": "2026-11-25",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 10,
+      "summary": "- 日期：2026-11-25（周三）· 起点 2026-11-10 = Day 1 → 今天 Day 16（未到 182 天，正常授课）",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 22,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day16"
+    },
+    {
+      "slug": "fin-d08",
+      "title": "金融入门 15 天 · D08：债券与收益率",
+      "date": "2026-11-25",
+      "series": "金融入门 15 天",
+      "seriesNo": 8,
+      "summary": "1. 昨天 D7 我们比了存款、货基、国债三样东西，核心是\"安全性、流动性、收益\"三者没法全占。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d08"
+    },
+    {
+      "slug": "psy-l10",
+      "title": "心理学入门每日一讲 · 第 10 讲：注意",
+      "date": "2026-11-25",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 10,
+      "summary": "1. 走路时背景噪声和身体晃动，把那阵振动压到了绝对阈限以下，所以没察觉；坐下来安静了，同样强度的振动就越过门槛被你发现——振动没变，是你的\"底噪\"变了。\"感觉到震动\"是感觉（信号",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l10"
+    },
+    {
+      "slug": "aieng-day15",
+      "title": "Day 15 讲义与学术雷达 · 预处理、宏、头文件守卫",
+      "date": "2026-11-24",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 9,
+      "summary": "- 日期：2026-11-24（周二）· 起点 2026-11-10 = Day 1 → 今天 Day 15",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 18,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day15"
+    },
+    {
+      "slug": "fin-d07",
+      "title": "金融入门 15 天 · D07：存款货基国债",
+      "date": "2026-11-24",
+      "series": "金融入门 15 天",
+      "seriesNo": 7,
+      "summary": "1. D6 认识了市场参与者（散户、机构、产业资本、国家队、做市商）和规则（交易时间、T+1、涨跌幅、印花税、融资保证金）。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d07"
+    },
+    {
+      "slug": "psy-l09",
+      "title": "心理学入门每日一讲 · 第 09 讲：感觉与知觉",
+      "date": "2026-11-24",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 9,
+      "summary": "1. \"前额叶不发达\"说过头在两处：一是把群体平均的成熟年龄拿来给个人贴标签，二是拿脑区当\"自控\"的单一开关。更贴切：\"自控是前额叶等多个脑区联网的结果，我更可能是具体习惯和情境没",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l09"
+    },
+    {
+      "slug": "fin-d06",
+      "title": "金融入门 15 天 · D06：参与者与规则",
+      "date": "2026-11-23",
+      "series": "金融入门 15 天",
+      "seriesNo": 6,
+      "summary": "1. D5 讲了交易所和指数：交易所负责撮合、定规则、披露、监管；指数是市场温度计，用市值加权算涨跌。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d06"
+    },
+    {
+      "slug": "psy-l08",
+      "title": "心理学入门每日一讲 · 第 08 讲：大脑分区与神经可塑性",
+      "date": "2026-11-23",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 8,
+      "summary": "1. 大致顺序：烫刺激激活手指的感受神经元 → 电信号沿它的轴突传到末梢 → 到突触处换成化学信号，释放神经递质 → 递质跨过突触间隙作用于下一个神经元（脊髓里的中间/运动神经元）",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l08"
+    },
+    {
+      "slug": "aieng-day13",
+      "title": "Day 13 讲义与学术雷达 · 项目日：自己实现动态数组",
+      "date": "2026-11-22",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 8,
+      "summary": "- 日期：2026-11-22（周日）· 起点 2026-11-10 = Day 1 → 今天 Day 13",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 18,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day13"
+    },
+    {
+      "slug": "fin-d05",
+      "title": "金融入门 15 天 · D05：交易所与指数",
+      "date": "2026-11-22",
+      "series": "金融入门 15 天",
+      "seriesNo": 5,
+      "summary": "1. D4 讲了资金搬运：储蓄者的钱经银行（间接融资）或经市场发债发股（直接融资）流到融资者手里。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d05"
+    },
+    {
+      "slug": "psy-l07",
+      "title": "心理学入门每日一讲 · 第 07 讲：神经元与突触",
+      "date": "2026-11-22",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 7,
+      "summary": "1. 漏掉了组内分布——A 班挤在均值附近，B 班两极分化。用\"标准差\"补：A 班标准差小、B 班大。均值相同不代表两班情况相同。",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l07"
+    },
     {
       "slug": "deveco-session-02",
       "title": "AI 助手升级后聊天记录丢了（二）：数据一直都在，丢的是看见",
@@ -99,6 +264,261 @@
       ],
       "readMin": 7,
       "url": "https://guyuezhicheng.github.io/writing#nvm-node-deveco-setup"
+    },
+    {
+      "slug": "aieng-day10",
+      "title": "Day 10 讲义与学术雷达 · 2026-11-19（周四）",
+      "date": "2026-11-19",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 7,
+      "summary": "目录核查发现 D6、D7、D9 三次自动执行缺失，没有讲义、没有代码、看板停在 Day 8：",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 17,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day10"
+    },
+    {
+      "slug": "fin-d03",
+      "title": "金融入门 15 天 · D03：通胀与风险收益",
+      "date": "2026-11-19",
+      "series": "金融入门 15 天",
+      "seriesNo": 3,
+      "summary": "1. D2 画了两张表：资产负债表是\"家底照片\"（存量），现金流表是\"钱来钱往\"（流量），净资产 = 资产 − 负债。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d03"
+    },
+    {
+      "slug": "fin-d04",
+      "title": "金融入门 15 天 · D04：融资与金融体系",
+      "date": "2026-11-19",
+      "series": "金融入门 15 天",
+      "seriesNo": 4,
+      "summary": "1. D3 讲了通胀：物价涨、钱变毛，实际收益率 ≈ 名义收益率 − 通胀率。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d04"
+    },
+    {
+      "slug": "psy-l06",
+      "title": "心理学入门每日一讲 · 第 06 讲：平均数差异与显著性",
+      "date": "2026-11-19",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 6,
+      "summary": "1. 不只看\"几个人说有用\"，要够大、随机的样本；找志愿者随机分两组，一组戴真手环、一组戴外观一样但没功能的，这就是安慰剂对照；别告诉受试者哪组是真的，也别让记录上课状态的人知道分",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l06"
+    },
+    {
+      "slug": "aieng-day08",
+      "title": "Day 8 · 2026-11-17（周二）",
+      "date": "2026-11-17",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 6,
+      "summary": "阶段：P1 筑基 / W2（内存与指针）/ D1　｜　主题：指针：&、、指针宽度、地址运算",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 35,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day08"
+    },
+    {
+      "slug": "fin-d02",
+      "title": "金融入门 15 天 · D02：资产负债与现金流",
+      "date": "2026-11-17",
+      "series": "金融入门 15 天",
+      "seriesNo": 2,
+      "summary": "1. D1 讲了利率与复利：本金、利息、利率、单利、复利、年化、基点、时间价值。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d02"
+    },
+    {
+      "slug": "psy-l05",
+      "title": "心理学入门每日一讲 · 第 05 讲：样本安慰剂与双盲",
+      "date": "2026-11-17",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 5,
+      "summary": "1. 他把\"相关\"当成了\"因果\"——一起打球和分高同时出现，不等于打球提分。不打球也能解释的可能至少两种：方向反过来（学习好的同学更爱约着打球）、第三变量（爱运动的人作息规律、精力",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l05"
+    },
+    {
+      "slug": "aieng-day05",
+      "title": "Day 5 · 2026-11-14（周六）",
+      "date": "2026-11-14",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 5,
+      "summary": "阶段：P1 筑基 / W1 / D5　｜　主题：数组与字符串",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 43,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day05"
+    },
+    {
+      "slug": "psy-l04",
+      "title": "心理学入门每日一讲 · 第 04 讲：实验法与相关法",
+      "date": "2026-11-14",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 4,
+      "summary": "1. 先把\"心态好\"和\"不慌\"拎出来当变量。操作化：\"心态好\"可定为某焦虑量表得分低于某个线；\"不慌\"可定为考场自评紧张得分或心跳、手抖等可记的指标。这样别人才好照着测。",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l04"
+    },
+    {
+      "slug": "aieng-day04",
+      "title": "Day 4 · 2026-11-13（周五）",
+      "date": "2026-11-13",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 4,
+      "summary": "阶段：P1 筑基 / W1 / D4　｜　主题：函数、参数传递、作用域、递归",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 29,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day04"
+    },
+    {
+      "slug": "psy-l03",
+      "title": "心理学入门每日一讲 · 第 03 讲：从问题到可检验的假设",
+      "date": "2026-11-13",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 3,
+      "summary": "1. 推送那条\"每天走一万步的人更长寿\"停在描述+相关：它只说两件事一起出现。\"所以你赶紧多走路\"偷偷跳到了改善（干预），中间的解释环节被跳过了——为什么走得多会长寿、是不是身体好",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 5,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l03"
+    },
+    {
+      "slug": "aieng-day03",
+      "title": "Day 3 · 2026-11-12（周四）",
+      "date": "2026-11-12",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 3,
+      "summary": "阶段：P1 筑基 / W1 / D3　｜　主题：分支与循环",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 26,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day03"
+    },
+    {
+      "slug": "psy-l02",
+      "title": "心理学入门每日一讲 · 第 02 讲：心理学的四个目标",
+      "date": "2026-11-12",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 2,
+      "summary": "1. 可以这么回：\"我研究的是人普遍怎么想、怎么做，不是读心术；你不说，我可猜不着。\"关键是把\"心理学\"和\"知道你在想什么\"切开。",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l02"
+    },
+    {
+      "slug": "aieng-day02",
+      "title": "Day 2 · 2026-11-11（周三）",
+      "date": "2026-11-11",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 2,
+      "summary": "阶段：P1 筑基 / W1 / D2　｜　主题：数据类型、变量、运算符、补码",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 21,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day02"
+    },
+    {
+      "slug": "psy-l01",
+      "title": "心理学入门每日一讲 · 第 01 讲：心理学是什么",
+      "date": "2026-11-11",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 1,
+      "summary": "1. 中国科学报 / 科学网 2026-11-10《网聊影响青少年心理健康，跟谁聊很关键》：青少年网聊时的心理状态和\"跟谁聊\"有关，聊天对象的不同对应不同结果。跟今天的关联：心理学",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l01"
+    },
+    {
+      "slug": "aieng-day01",
+      "title": "Day 1 · 2026-11-10（周二）",
+      "date": "2026-11-10",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 1,
+      "summary": "阶段：P1 筑基 / W1 / D1　｜　主题：环境 + 第一个 C 程序 + 编译四步 + sizeof 与地址",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言"
+      ],
+      "readMin": 15,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day01"
+    },
+    {
+      "slug": "fin-d01",
+      "title": "金融入门 15 天 · D01：利率与复利",
+      "date": "2026-11-10",
+      "series": "金融入门 15 天",
+      "seriesNo": 1,
+      "summary": "1. 本金 / 利息 / 利率：",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 4,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d01"
     }
   ]
 }
