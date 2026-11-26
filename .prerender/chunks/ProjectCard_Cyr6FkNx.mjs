@@ -1,0 +1,13 @@
+import { T as addAttribute, v as renderTemplate, y as maybeRenderHead } from "./server_B46-sQ6m.mjs";
+import { a as createComponent, i as createAstro } from "./BaseLayout_DY_FmqeT.mjs";
+// src/components/ProjectCard.astro
+createAstro("https://guyuezhicheng.github.io");
+var $$ProjectCard = createComponent(($$result, $$props, $$slots) => {
+	const Astro = $$result.createAstro($$props, $$slots);
+	Astro.self = $$ProjectCard;
+	const { project } = Astro.props;
+	const isPublic = project.visibility === "public";
+	const thumbOf = (src) => src.replace(/\.(png|jpe?g)$/i, ".webp");
+	return renderTemplate`${maybeRenderHead($$result)}<article class="project-card glass"${addAttribute(project.imgs?.join("|"), "data-shots")}>${project.imgs && project.imgs.length > 0 && renderTemplate`<img class="proj-bg"${addAttribute(thumbOf(project.imgs[0]), "src")} alt="" aria-hidden="true" loading="lazy">`}<div${addAttribute(`cover ${project.cover}${project.imgs && project.imgs.length > 0 ? " has-shot" : ""}`, "class")}>${project.imgs && project.imgs.length > 0 && renderTemplate`<img class="cover-img"${addAttribute(thumbOf(project.imgs[0]), "src")} alt="" aria-hidden="true" loading="lazy">`}<span>${project.name}</span></div><div class="proj-body"><div class="proj-meta"><span class="tag-pill">${project.category}</span><span${addAttribute(`repo-badge${isPublic ? "" : " is-private"}`, "class")}>${isPublic ? "公开" : "私有"}</span><span class="dot-sep"></span><span>${project.status}</span><span class="dot-sep"></span><span>${project.year}</span></div><p class="proj-summary">${project.summary}</p><p class="proj-problem">${project.problem}</p><div class="stack">${project.stack.map((s) => renderTemplate`<span>${s}</span>`)}</div>${project.imgs && project.imgs.length > 0 && renderTemplate`<div class="proj-shots">${project.imgs.map((src, i) => renderTemplate`<a${addAttribute(src, "href")} target="_blank" rel="noopener" class="shot-link"${addAttribute(i, "data-shot-index")} title="点开看大图"><img${addAttribute(thumbOf(src), "src")} alt="项目截图" loading="lazy"></a>`)}</div>`}<div class="proj-links">${project.repo && renderTemplate`<a${addAttribute(project.repo, "href")} target="_blank" rel="noopener">源码<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>`}${project.demo && renderTemplate`<a${addAttribute(project.demo, "href")} target="_blank" rel="noopener">在线体验<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>`}</div></div></article>`;
+}, "D:/AI系统缓存目录/WorkBuddy/spaces/2026_11_20_18-28-20/portfolio/src/components/ProjectCard.astro", void 0);
+export { $$ProjectCard as t };
