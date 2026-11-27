@@ -1,9 +1,101 @@
 {
   "site": "胡志成",
   "domain": "guyuezhicheng.github.io",
-  "updated": "2026-11-26T06:29:42.878Z",
-  "count": 34,
+  "updated": "2026-11-27T03:37:17.180Z",
+  "count": 40,
   "posts": [
+    {
+      "slug": "aieng-day18",
+      "title": "Day 18 讲义与学术雷达 · 位运算、大小端、补码、整数溢出",
+      "date": "2026-11-27",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 12,
+      "summary": "P1 筑基 / W3 D4：直接操作二进制位、多字节整数在内存里的排法、负数补码表示，以及溢出为何悄悄发生不报错——为后面的量化埋线。",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言",
+        "工程化"
+      ],
+      "readMin": 21,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day18"
+    },
+    {
+      "slug": "fin-d10",
+      "title": "金融入门 15 天 · D10 GDP",
+      "date": "2026-11-27",
+      "series": "金融入门 15 天",
+      "seriesNo": 10,
+      "summary": "GDP 就是\"一个国家一年在自己地盘上新创造了多少最终 worth\"，三个算法、两个版本（名义/实际），看增速要分清是价格涨了还是东西真多产了。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d10"
+    },
+    {
+      "slug": "psy-l12",
+      "title": "心理学入门每日一讲 · 第 12 讲：睡眠、昼夜节律与梦",
+      "date": "2026-11-27",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 12,
+      "summary": "2026年11月27日 · 第 12 讲 / 共 36 讲 · 阶段二：硬件与入口；光照校准生物钟也牵着情绪走，困意不全是被动耗尽。",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l12"
+    },
+    {
+      "slug": "aieng-day17",
+      "title": "Day 17 讲义与学术雷达 · 文件 I/O、文本/二进制、errno",
+      "date": "2026-11-26",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 11,
+      "summary": "P1 筑基 / W3 D3：文本与二进制到底差在哪、打开失败怎么体面地不崩，读写文本文件与二进制文件，处理打开失败。",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言",
+        "工程化"
+      ],
+      "readMin": 20,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day17"
+    },
+    {
+      "slug": "fin-d09",
+      "title": "金融入门 15 天 · D09：股票·基金·ETF",
+      "date": "2026-11-26",
+      "series": "金融入门 15 天",
+      "seriesNo": 9,
+      "summary": "股票是\"我当公司股东\"的一张凭证，基金是\"把大家的钱凑起来打包买一堆资产\"的一辆车，ETF 是能像股票一样盘中实时买卖的指数基金。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d09"
+    },
+    {
+      "slug": "psy-l11",
+      "title": "心理学入门每日一讲 · 第 11 讲：知觉组织与错觉",
+      "date": "2026-11-26",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 11,
+      "summary": "2026年11月26日 · 第 11 讲 / 共 36 讲 · 阶段二：硬件与入口——感觉、知觉与注意；知觉混着过去经验，不是当场快照。",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l11"
+    },
     {
       "slug": "aieng-day16",
       "title": "Day 16 讲义与学术雷达 · 多文件编译、静态库/动态库、Makefile/CMake",

@@ -5,7 +5,69 @@
     <link>https://guyuezhicheng.github.io</link>
     <description>武昌工学院信息工程学院计算机科学与技术专业，全栈开发 / HarmonyOS 应用开发。这里放项目、文章和正在做的事。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:37:17 GMT</lastBuildDate>
+    <item>
+      <title>Day 18 讲义与学术雷达 · 位运算、大小端、补码、整数溢出</title>
+      <link>https://guyuezhicheng.github.io/writing#aieng-day18</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/aieng-day18</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>P1 筑基 / W3 D4：直接操作二进制位、多字节整数在内存里的排法、负数补码表示，以及溢出为何悄悄发生不报错——为后面的量化埋线。</description>
+      <category>AI</category>
+      <category>工程师</category>
+      <category>C语言</category>
+      <category>工程化</category>
+    </item>
+    <item>
+      <title>金融入门 15 天 · D10 GDP</title>
+      <link>https://guyuezhicheng.github.io/writing#fin-d10</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/fin-d10</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>GDP 就是&quot;一个国家一年在自己地盘上新创造了多少最终 worth&quot;，三个算法、两个版本（名义/实际），看增速要分清是价格涨了还是东西真多产了。</description>
+      <category>金融</category>
+      <category>入门</category>
+      <category>每日一课</category>
+    </item>
+    <item>
+      <title>心理学入门每日一讲 · 第 12 讲：睡眠、昼夜节律与梦</title>
+      <link>https://guyuezhicheng.github.io/writing#psy-l12</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/psy-l12</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026年11月27日 · 第 12 讲 / 共 36 讲 · 阶段二：硬件与入口；光照校准生物钟也牵着情绪走，困意不全是被动耗尽。</description>
+      <category>心理学</category>
+      <category>入门</category>
+      <category>每日一讲</category>
+    </item>
+    <item>
+      <title>Day 17 讲义与学术雷达 · 文件 I/O、文本/二进制、errno</title>
+      <link>https://guyuezhicheng.github.io/writing#aieng-day17</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/aieng-day17</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>P1 筑基 / W3 D3：文本与二进制到底差在哪、打开失败怎么体面地不崩，读写文本文件与二进制文件，处理打开失败。</description>
+      <category>AI</category>
+      <category>工程师</category>
+      <category>C语言</category>
+      <category>工程化</category>
+    </item>
+    <item>
+      <title>金融入门 15 天 · D09：股票·基金·ETF</title>
+      <link>https://guyuezhicheng.github.io/writing#fin-d09</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/fin-d09</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>股票是&quot;我当公司股东&quot;的一张凭证，基金是&quot;把大家的钱凑起来打包买一堆资产&quot;的一辆车，ETF 是能像股票一样盘中实时买卖的指数基金。</description>
+      <category>金融</category>
+      <category>入门</category>
+      <category>每日一课</category>
+    </item>
+    <item>
+      <title>心理学入门每日一讲 · 第 11 讲：知觉组织与错觉</title>
+      <link>https://guyuezhicheng.github.io/writing#psy-l11</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/psy-l11</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026年11月26日 · 第 11 讲 / 共 36 讲 · 阶段二：硬件与入口——感觉、知觉与注意；知觉混着过去经验，不是当场快照。</description>
+      <category>心理学</category>
+      <category>入门</category>
+      <category>每日一讲</category>
+    </item>
     <item>
       <title>Day 16 讲义与学术雷达 · 多文件编译、静态库/动态库、Makefile/CMake</title>
       <link>https://guyuezhicheng.github.io/writing#aieng-day16</link>
