@@ -5,7 +5,18 @@
     <link>https://guyuezhicheng.github.io</link>
     <description>武昌工学院信息工程学院计算机科学与技术专业，全栈开发 / HarmonyOS 应用开发。这里放项目、文章和正在做的事。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:23:38 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 到底是个啥：仓库、分支、提交、归档、迭代，一次说人话</title>
+      <link>https://guyuezhicheng.github.io/writing#github-concepts</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/github-concepts</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>用毕设当例子，把仓库、分支、commit、合并、归档、迭代这几个词讲清楚。不是教程，是搞懂 GitHub 在管什么。</description>
+      <category>GitHub</category>
+      <category>Git</category>
+      <category>概念入门</category>
+      <category>毕业设计</category>
+    </item>
     <item>
       <title>Day 18 讲义与学术雷达 · 位运算、大小端、补码、整数溢出</title>
       <link>https://guyuezhicheng.github.io/writing#aieng-day18</link>

@@ -1,9 +1,25 @@
 {
   "site": "胡志成",
   "domain": "guyuezhicheng.github.io",
-  "updated": "2026-11-27T08:50:21.172Z",
-  "count": 40,
+  "updated": "2026-11-27T09:23:37.931Z",
+  "count": 41,
   "posts": [
+    {
+      "slug": "github-concepts",
+      "title": "GitHub 到底是个啥：仓库、分支、提交、归档、迭代，一次说人话",
+      "date": "2026-11-27",
+      "series": "开发环境搭建",
+      "seriesNo": 3,
+      "summary": "用毕设当例子，把仓库、分支、commit、合并、归档、迭代这几个词讲清楚。不是教程，是搞懂 GitHub 在管什么。",
+      "tags": [
+        "GitHub",
+        "Git",
+        "概念入门",
+        "毕业设计"
+      ],
+      "readMin": 8,
+      "url": "https://guyuezhicheng.github.io/writing#github-concepts"
+    },
     {
       "slug": "aieng-day18",
       "title": "Day 18 讲义与学术雷达 · 位运算、大小端、补码、整数溢出",
