@@ -5,7 +5,39 @@
     <link>https://guyuezhicheng.github.io</link>
     <description>武昌工学院信息工程学院计算机科学与技术专业，全栈开发 / HarmonyOS 应用开发。这里放项目、文章和正在做的事。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:23:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:01:33 GMT</lastBuildDate>
+    <item>
+      <title>Day 19 讲义与学术雷达 · 栈帧、函数调用约定、GDB 单步</title>
+      <link>https://guyuezhicheng.github.io/writing#aieng-day19</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/aieng-day19</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>P1 筑基 / W3 D5：一次调用在栈上压一个栈帧，模块之间靠调用约定对齐，崩了靠 GDB 逐帧倒查——看栈、查崩溃、跨语言互调的地基。</description>
+      <category>AI</category>
+      <category>工程师</category>
+      <category>C语言</category>
+      <category>GDB</category>
+      <category>系统视角</category>
+    </item>
+    <item>
+      <title>金融入门 15 天 · D11 CPI 与 PPI</title>
+      <link>https://guyuezhicheng.github.io/writing#fin-d11</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/fin-d11</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>CPI 看你买东西贵没贵，PPI 看工厂出货价涨没涨；两个数不是一回事，PPI 涨了不代表 CPI 一定跟着涨。</description>
+      <category>金融</category>
+      <category>入门</category>
+      <category>每日一课</category>
+    </item>
+    <item>
+      <title>心理学入门每日一讲 · 第 13 讲：经典条件作用</title>
+      <link>https://guyuezhicheng.github.io/writing#psy-l13</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/psy-l13</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>2026年11月28日 · 第 13 讲 / 共 36 讲 · 阶段三：经验如何改变我们；一个本来没意义的信号，跟有意义的刺激绑到一起后，单靠信号就能起反应。</description>
+      <category>心理学</category>
+      <category>入门</category>
+      <category>每日一讲</category>
+    </item>
     <item>
       <title>GitHub 到底是个啥：仓库、分支、提交、归档、迭代，一次说人话</title>
       <link>https://guyuezhicheng.github.io/writing#github-concepts</link>

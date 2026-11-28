@@ -1,9 +1,56 @@
 {
   "site": "胡志成",
   "domain": "guyuezhicheng.github.io",
-  "updated": "2026-11-27T09:23:37.931Z",
-  "count": 41,
+  "updated": "2026-11-28T06:01:33.468Z",
+  "count": 44,
   "posts": [
+    {
+      "slug": "aieng-day19",
+      "title": "Day 19 讲义与学术雷达 · 栈帧、函数调用约定、GDB 单步",
+      "date": "2026-11-28",
+      "series": "AI 工程师培养计划",
+      "seriesNo": 13,
+      "summary": "P1 筑基 / W3 D5：一次调用在栈上压一个栈帧，模块之间靠调用约定对齐，崩了靠 GDB 逐帧倒查——看栈、查崩溃、跨语言互调的地基。",
+      "tags": [
+        "AI",
+        "工程师",
+        "C语言",
+        "GDB",
+        "系统视角"
+      ],
+      "readMin": 22,
+      "url": "https://guyuezhicheng.github.io/writing#aieng-day19"
+    },
+    {
+      "slug": "fin-d11",
+      "title": "金融入门 15 天 · D11 CPI 与 PPI",
+      "date": "2026-11-28",
+      "series": "金融入门 15 天",
+      "seriesNo": 11,
+      "summary": "CPI 看你买东西贵没贵，PPI 看工厂出货价涨没涨；两个数不是一回事，PPI 涨了不代表 CPI 一定跟着涨。",
+      "tags": [
+        "金融",
+        "入门",
+        "每日一课"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#fin-d11"
+    },
+    {
+      "slug": "psy-l13",
+      "title": "心理学入门每日一讲 · 第 13 讲：经典条件作用",
+      "date": "2026-11-28",
+      "series": "心理学入门每日一讲",
+      "seriesNo": 13,
+      "summary": "2026年11月28日 · 第 13 讲 / 共 36 讲 · 阶段三：经验如何改变我们；一个本来没意义的信号，跟有意义的刺激绑到一起后，单靠信号就能起反应。",
+      "tags": [
+        "心理学",
+        "入门",
+        "每日一讲"
+      ],
+      "readMin": 6,
+      "url": "https://guyuezhicheng.github.io/writing#psy-l13"
+    },
     {
       "slug": "github-concepts",
       "title": "GitHub 到底是个啥：仓库、分支、提交、归档、迭代，一次说人话",
