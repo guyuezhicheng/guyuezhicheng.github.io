@@ -5,7 +5,7 @@
     <link>https://guyuezhicheng.github.io</link>
     <description>武昌工学院信息工程学院计算机科学与技术专业，全栈开发 / HarmonyOS 应用开发。这里放项目、文章和正在做的事。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:34:12 GMT</lastBuildDate>
     <item>
       <title>Day 19 讲义与学术雷达 · 栈帧、函数调用约定、GDB 单步</title>
       <link>https://guyuezhicheng.github.io/writing#aieng-day19</link>
@@ -37,6 +37,36 @@
       <category>心理学</category>
       <category>入门</category>
       <category>每日一讲</category>
+    </item>
+    <item>
+      <title>健身 · 开篇：把身体当成长期项目来经营</title>
+      <link>https://guyuezhicheng.github.io/writing#fitness-01</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/fitness-01</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>健身是我第二个项目，练的是自律。这个方向只记能验证的东西：按周看趋势，不编数据，允许断。</description>
+      <category>健身</category>
+      <category>减脂增肌</category>
+      <category>记录</category>
+    </item>
+    <item>
+      <title>摄影 · 开篇：光影这东西，越琢磨越上头</title>
+      <link>https://guyuezhicheng.github.io/writing#photo-01</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/photo-01</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>摄影是新坑，构图后期都在学。这个方向一次只讲一个点，配图用自己拍的，允许拍废并记录废在哪。</description>
+      <category>摄影</category>
+      <category>构图</category>
+      <category>后期</category>
+    </item>
+    <item>
+      <title>社交 · 开篇：从 i 人到 e 人，慢慢走出舒适区</title>
+      <link>https://guyuezhicheng.github.io/writing#social-01</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/social-01</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>社交不是改性格，是当技能练：只记具体场景，一次复盘改一个点，不美化也不自黑，允许退回舒适区。</description>
+      <category>社交</category>
+      <category>表达</category>
+      <category>复盘</category>
     </item>
     <item>
       <title>GitHub 到底是个啥：仓库、分支、提交、归档、迭代，一次说人话</title>
@@ -286,6 +316,17 @@
       <category>nvm</category>
       <category>Node.js</category>
       <category>DevEco Code</category>
+    </item>
+    <item>
+      <title>AI Agent 开发 · 开篇：把 Agent 这几个词一次讲清楚</title>
+      <link>https://guyuezhicheng.github.io/writing#agent-concepts-01</link>
+      <guid isPermaLink="false">https://guyuezhicheng.github.io/posts/agent-concepts-01</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>LLM 给脑子，Agent 给手脚，Multi-Agent 给组织，MCP/A2A 给接口标准。从 AtomCode 的安装按钮讲起，一次拆清 LLM、RAG、Skill、Multi-Agent、MCP。</description>
+      <category>AI</category>
+      <category>Agent</category>
+      <category>MCP</category>
+      <category>概念笔记</category>
     </item>
     <item>
       <title>Day 10 讲义与学术雷达 · 2026-11-19（周四）</title>
